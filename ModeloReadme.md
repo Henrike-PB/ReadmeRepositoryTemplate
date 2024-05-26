@@ -1,41 +1,5 @@
 <h1 align="center">TITULO DO PROJETO</h1>
 
-## Descrição
-Escreva uma descrição do seu projeto
-
-## Funcionalidades
-* <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
-
-## Tecnologias utilizadas
-* Tecnologia;
-
-## Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
-```
-<linha de comando>
-```
-
-## Implementação futura
-* O que será implementado na próxima sprint?
-
-## Colaboradores
-<table>
-  <tr>
-    <td align="center">
-      <a href="http://github.com/dafnirca">
-        <img src="https://avatars.githubusercontent.com/u/109047245?v=4" width="100px;" alt="Foto de Dafni Rosa no GitHub"/><br>
-        <sub>
-          <b>dafnirca</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## Status do projeto
-
-# Título do Projeto
-
 ## Descrição do Projeto
 
 Este projeto é uma aplicação web desenvolvida para gerenciar tarefas diárias de forma eficiente. O objetivo é proporcionar uma interface intuitiva para os usuários adicionarem, editarem e removerem tarefas, além de marcar como concluídas.
@@ -77,9 +41,18 @@ Aqui estão alguns exemplos visuais de como usar a aplicação:
 
 ## Colaboradores
 
-- [João da Silva](https://github.com/joaodasilva)
-- [Maria Oliveira](https://github.com/mariaoliveira)
-- [Carlos Souza](https://github.com/carlossouza)
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://github.com/dafnirca">
+        <img src="https://avatars.githubusercontent.com/u/109047245?v=4" width="100px;" alt="Foto de Dafni Rosa no GitHub"/><br>
+        <sub>
+          <b>dafnirca</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Licença
 
