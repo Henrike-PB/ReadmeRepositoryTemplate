@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Exemplo de README.md</h1>
+<h1 align="center">TITULO DO PROJETO</h1>
 
 ## Descrição
 Escreva uma descrição do seu projeto
@@ -33,3 +33,64 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 </table>
 
 ## Status do projeto
+
+# Título do Projeto
+
+## Descrição do Projeto
+
+Este projeto é uma aplicação web desenvolvida para gerenciar tarefas diárias de forma eficiente. O objetivo é proporcionar uma interface intuitiva para os usuários adicionarem, editarem e removerem tarefas, além de marcar como concluídas.
+
+## Funcionalidade do Projeto
+
+- Adicionar tarefas
+- Editar tarefas existentes
+- Remover tarefas
+- Marcar tarefas como concluídas
+- Filtrar tarefas por status (concluídas/não concluídas)
+
+## Tecnologias usadas no projeto
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Node.js
+- Express.js
+- MongoDB
+
+## Status do Projeto
+
+O projeto está em fase de desenvolvimento. As funcionalidades básicas foram implementadas, mas ainda há melhorias e ajustes planejados, incluindo:
+
+- Implementação de autenticação de usuários
+- Interface responsiva para dispositivos móveis
+- Integração com APIs externas para sincronização de tarefas
+
+## Exemplos de uso do projeto
+
+Aqui estão alguns exemplos visuais de como usar a aplicação:
+
+![Adicionar Tarefa](images/adicionar_tarefa.png)
+*Figura 1: Tela de Adicionar Tarefa*
+
+![Tarefas Listadas](images/tarefas_listadas.png)
+*Figura 2: Tarefas Listadas*
+
+## Colaboradores
+
+- [João da Silva](https://github.com/joaodasilva)
+- [Maria Oliveira](https://github.com/mariaoliveira)
+- [Carlos Souza](https://github.com/carlossouza)
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Notas Adicionais
+
+Para mais informações e documentação detalhada, visite nosso [site oficial](https://example.com).
+
+### Links Úteis
+
+- [Documentação Completa](https://example.com/docs)
+- [Instruções de Uso](https://example.com/usage)
+- [FAQ](https://example.com/faq)
